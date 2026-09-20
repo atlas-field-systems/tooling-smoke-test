@@ -1,0 +1,7 @@
+{
+  "name": "tooling-smoke-test",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": { "test": "node --test" }
+}
