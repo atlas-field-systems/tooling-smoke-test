@@ -10,4 +10,4 @@ permissions:
 
 jobs:
   test:
-    uses: atlas-field-systems/.github/.github/workflows/node-ci.yml@53648b1be3fe9e1cb280856958ae89eaab6b79c2
+    uses: atlas-field-systems/.github/.github/workflows/node-ci.yml@091cb3e94fbd14195c01ba5915f954d83cc924a6
